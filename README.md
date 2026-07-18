@@ -57,7 +57,7 @@ Download the latest version of NativeView from the [Releases page](https://githu
 
 1. Download the latest Native-View-Setup.exe file.
 2. Run the installer.
-3. Launch NativeView and start previewing your mobile projects.
+3. Launch NativeView.
 
 
 ### Getting Started
