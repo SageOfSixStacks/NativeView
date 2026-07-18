@@ -14,6 +14,15 @@
 NativeView is a lightweight desktop application for previewing and debugging Flutter, React Native, Expo and supported mobile development projects through realistic device simulations without the overhead of heavy traditional emulators.
 
 
+<p align="center">
+  <img src="assets/screenshot-setupscreen.png" alt="setup screen" width="120" height="120" />
+</p>
+
+<p align="center">
+  <img src="assets/screenshot-setupscreen.png" alt="main screen" />
+</p>
+
+
 ### Features
 
 - Preview applications inside Android and iOS device frames
