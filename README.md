@@ -51,6 +51,15 @@ More frameworks are planned for future releases.
 - Linux - coming soon
 
 
+### Installation
+
+Download the latest version of NativeView from the [Releases page](https://github.com/SageOfSixStacks/NativeView/releases#release-v0.1.0-beta).
+
+1. Download the latest Native-View-Setup.exe file.
+2. Run the installer.
+3. Launch NativeView and start previewing your mobile projects.
+
+
 ### Getting Started
 
 #### 1. Create or Open a Workspace
