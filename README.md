@@ -25,7 +25,7 @@ NativeView is a lightweight desktop application for previewing and debugging Flu
 
 ### Features
 
-- Preview applications inside Android and iOS device frames
+- Preview applications inside simulated Android and iOS devices
 - Fast application startup and preview workflow
 - Start, stop, restart, and refresh development servers
 - Open multiple device previews
