@@ -15,11 +15,11 @@ NativeView is a lightweight desktop application for previewing and debugging Flu
 
 
 <p align="center">
-  <img src="assets/screenshot-setupscreen.png" alt="setup screen" width="120" height="120" />
+  <img src="assets/screenshot-setupscreen.png" alt="setup screen"/>
 </p>
 
 <p align="center">
-  <img src="assets/screenshot-setupscreen.png" alt="main screen" />
+  <img src="assets/screenshot-mainscreen.png" alt="main screen"/>
 </p>
 
 
