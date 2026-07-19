@@ -4,11 +4,6 @@
 
 <h1 align="center">NativeView</h1>
 
-<!-- <p align="center">
-  <strong>The open-source AI voice studio.</strong><br/>
-  Clone any voice. Generate speech. Dictate into any app. Talk to agents in voices you own.<br/>
-  The full voice I/O stack, running locally on your machine.
-</p> -->
 
 ### What is NativeView
 NativeView is a lightweight desktop application for previewing and debugging Flutter, React Native, Expo and supported mobile development projects through realistic device simulations without the overhead of heavy traditional emulators.
